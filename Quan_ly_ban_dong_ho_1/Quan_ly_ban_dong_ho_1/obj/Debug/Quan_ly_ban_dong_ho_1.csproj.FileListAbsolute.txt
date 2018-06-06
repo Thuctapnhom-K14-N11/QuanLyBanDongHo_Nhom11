@@ -1,0 +1,252 @@
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.exe.config
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.exe
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.pdb
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csprojResolveAssemblyReference.cache
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Form1.resources
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Properties.Resources.resources
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csproj.GenerateResource.Cache
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.exe
+c:\users\tuan anh\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.pdb
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fHoaDon.resources
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fKhachHang.resources
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fNhanVien.resources
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fSanPham.resources
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.exe.licenses
+C:\Users\TUAN ANH\documents\visual studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\TUAN ANH\Documents\Visual Studio 2015\Projects\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fDangNhap.resources
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.exe.config
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.exe
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.pdb
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fDangNhap.resources
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fHoaDon.resources
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fKhachHang.resources
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fNhanVien.resources
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Form1.resources
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fSanPham.resources
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.exe.licenses
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.exe
+C:\Users\Admin\Desktop\Quan_ly_ban_dong_ho_1 (1)\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.pdb
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.exe.config
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.exe
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.pdb
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Data.v17.2.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Data.v17.2.xml
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csprojResolveAssemblyReference.cache
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fDangNhap.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fHoaDon.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fKhachHang.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fNhanVien.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Form1.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fSanPham.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Properties.Resources.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csproj.GenerateResource.Cache
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.exe.licenses
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csproj.CoreCompileInputs.cache
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.exe
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.pdb
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Form2.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fDSHoaDon.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fThemHoaDon.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.ChiTietHoaDon.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fDoiMatKhau.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fTTTaiKhoan.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Thongke.resources
+E:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fThongke.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.exe.config
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.exe
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\Quan_ly_ban_dong_ho_1.pdb
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Data.v17.2.xml
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csprojAssemblyReference.cache
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.ChiTietHoaDon.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fDangNhap.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fDoiMatKhau.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fDSHoaDon.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fHoaDon.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fKhachHang.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fNhanVien.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Form1.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Form2.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fSanPham.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fThemHoaDon.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fThongke.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.fTTTaiKhoan.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Properties.Resources.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.Thongke.resources
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csproj.GenerateResource.cache
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.exe.licenses
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csproj.CoreCompileInputs.cache
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.csproj.CopyComplete
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.exe
+D:\Thuc_tap_nhom\Quan_ly_ban_dong_ho_1\Quan_ly_ban_dong_ho_1\obj\Debug\Quan_ly_ban_dong_ho_1.pdb
